@@ -7,6 +7,9 @@ public class login1Test {
 	@Test
 	public void getuser() {
 		System.out.println(" Login1Test TC -- gtuser function");
+		System.out.println(" getuser method is present");
+		System.out.println(" this is getuser method");
+		
 	}
 	
 	@Test
