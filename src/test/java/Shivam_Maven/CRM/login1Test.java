@@ -8,12 +8,13 @@ public class login1Test {
 	public void getuser() {
 		System.out.println(" Login1Test TC -- gtuser function");
 		System.out.println(" getuser method is present");
-		System.out.println(" this is getuser method");
 		
 	}
 	
 	@Test
 	public void setuser() {
+		System.out.println(" Login1Test TC -- SetUser function");
+		System.out.println(" Login1Test TC -- SetUser function");
 		System.out.println(" Login1Test TC -- SetUser function");
 	}
 	@BeforeSuite
